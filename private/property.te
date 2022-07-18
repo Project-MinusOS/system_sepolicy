@@ -535,6 +535,7 @@ neverallow {
   -vendor_init
   -adbd
   -adbd_tradeinmode
+  -system_app
   -system_server
 } {
   adbd_config_prop
